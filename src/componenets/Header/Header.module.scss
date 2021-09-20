@@ -1,0 +1,47 @@
+.headerWrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 43px 0 ;
+    border-bottom: 1px solid #EAEAEA ;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+
+    img {
+        padding-right: 15px;
+    }
+
+div {
+    h3 {
+  font-weight: 600;
+  text-transform: uppercase;
+    }
+    p {
+        font-weight: 200;
+        line-height: 17px;
+        font-size: 2vh;
+    }
+}
+}
+
+.right {
+    display: flex;
+    align-items: center;
+
+    li{
+    padding-right: 29px;
+
+    &:last-child {
+        padding-right: 0;
+    }
+    
+    span {
+        font-size: 2vh;
+        padding-left: 10px;
+    }
+    }
+    
+}
