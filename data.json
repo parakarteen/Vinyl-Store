@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Виниловый Альбом Indie Music 1986",
+        "price": "12 999 сом",
+        "imgUrl": "/images/musivIMG/1.png"
+    },
+    {
+        "title": "ВВиниловый Альбом Song Artist 270",
+        "price": "12 999 сом",
+        "imgUrl": "/images/musivIMG/2.png"
+    }, 
+    {
+        "title": "Виниловый Альбом Tyler the Creator Igor",
+        "price": "8 499 сом",
+        "imgUrl": "/images/musivIMG/3.png"
+    },
+    {
+        "title": "Виниловый Альбом In My Loop 2019",
+        "price": "8 999 сом",
+        "imgUrl": "/images/musivIMG/4.png"
+    },
+    {
+        "title": "Виниловый Альбом Ro Ck IT",
+        "price": "15 199 сом",
+        "imgUrl": "/images/musivIMG/5.png"
+    },
+    {
+        "title": "Виниловый Альбом Tame Impala",
+        "price": "11 299 сом",
+        "imgUrl": "/images/musivIMG/6.png"
+    },
+    {
+        "title": "Виниловый АльбомAlone for the first time",
+        "price": "10 799 сом",
+        "imgUrl": "/images/musivIMG/7.png"
+    },
+    {
+        "title": "ВВиниловый Альбом My Little Songs",
+        "price": "16 499 сом",
+        "imgUrl": "/images/musivIMG/8.png"
+    },
+    {
+        "title": "ВВиниловый Альбом OrL",
+        "price": "13 999 сом",
+        "imgUrl": "/images/musivIMG/9.png"
+    },
+    {
+        "title": "Виниловый Альбом Universal Human",
+        "price": "8 499 сом",
+        "imgUrl": "/images/musivIMG/10.png"
+    },
+    {
+        "title": "Виниловый Альбом Single Flower",
+        "price": "8 999 сом",
+        "imgUrl": "/images/musivIMG/11.png"
+    },
+    {
+        "title": "Виниловый Альбом Star Empty",
+        "price": "11 299 сом",
+        "imgUrl": "/images/musivIMG/12.png"
+    }
+]
